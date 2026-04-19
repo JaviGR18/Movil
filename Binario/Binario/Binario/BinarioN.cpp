@@ -8,7 +8,7 @@ int main() {
     char buffer[33]; // 32 bits máximo para un entero + '\0'
 
     // Pedimos el número al usuario
-    cout << "Ingresa un numero entero positivo: ";
+    cout << "Ingresa el valor entero: ";
     cin >> n;
 
     // Validamos que no sea negativo
@@ -20,8 +20,8 @@ int main() {
     // Llamamos a la función en ensamblador
     convertirBinario(n, buffer);
 
-    // Mostramos el resultado
-    cout << n << " en binario es: " << buffer << endl;
+    // Mostramos el resultado igual al ejemplo
+    cout << "El valor binario es: \"" << buffer << "\"" << endl;
 
     return 0;
 }
