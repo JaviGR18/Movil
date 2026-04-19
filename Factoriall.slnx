@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Factoriall/Factoriall.vcxproj" Id="c085f5fa-afa8-43f0-b7d6-84667cc10781" />
+</Solution>
