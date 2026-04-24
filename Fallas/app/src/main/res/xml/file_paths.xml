@@ -1,0 +1,8 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <cache-path
+        name="imagen_temporal"
+        path="/" />
+    <files-path
+        name="fotos_fallas"
+        path="/" />
+</paths>
