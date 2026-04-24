@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Binario/Binario.vcxproj" Id="a57abb5d-fb5f-4981-b3db-3ae4509362b7" />
-</Solution>
